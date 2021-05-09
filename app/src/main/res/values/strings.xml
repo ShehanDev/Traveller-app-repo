@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Traveller</string>
+    <string name="packageid">PackageID :</string>
+    <string name="name">Name :</string>
+    <string name="mobile">Mobile No :</string>
+    <string name="email">Email :</string>
+    <string name="id">NIC :</string>
+    <string name="duration">Duration :</string>
+    <string name="payment">Total Payment :</string>
+
+</resources>
